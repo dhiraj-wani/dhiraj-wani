@@ -2,9 +2,7 @@
 <h3 align="center">Telecommunication Engineer from Madrid</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p>dhirajtejwani8@gmail.com</p>
-<p align="left">
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-wani&show_icons=true&locale=en&theme=tokyonight" alt="dhiraj-wani" /></p>
